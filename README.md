@@ -13,9 +13,9 @@ The HR department of a consulting firm has collected extensive data on employee 
 
 ## Repository Structure
 
-- `Employee Retention.ipynb`: Jupyter Notebook for data analysis and modeling.
-- `HR_comma_sep.csv`: Dataset used in the project.
-- `Project Summary.md`: Markdown File summarizing the project, model performance comparisons, and recommendations.
+- `notebooks/`: Contains Jupyter Notebooks for data analysis and modeling.
+- `data/`: Directory for storing the dataset used in the project.
+- `docs/`: Documentation files, including the project summary.
 - `README.md`: Overview of the project, including instructions for running the code and interpreting the results.
 
 ## Getting Started
