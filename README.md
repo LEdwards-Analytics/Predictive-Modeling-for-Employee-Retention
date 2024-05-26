@@ -1,10 +1,10 @@
 # Predictive Modeling for Employee Retention
 
-This repository contains code and documentation for a capstone project focused on HR data analysis and predictive modeling. The project aims to provide data-driven insights to enhance employee retention within an organization.
+This repository contains code and documentation for a project focused on HR data analysis and predictive modeling. The project aims to provide data-driven insights to enhance employee retention.
 
 ## Project Overview
 
-The HR department of a consulting firm has collected extensive data on employee attributes and turnover. As a data scientist, the goal is to analyze this dataset and build predictive models to identify factors influencing employee attrition. By understanding these factors, the organization can take proactive measures to improve retention rates and mitigate turnover.
+The HR department of a consulting firm has collected extensive data on employee attributes and turnover. As a data scientist, the goal is to analyze this dataset and build predictive models to identify factors influencing employee attrition. The organization can proactively improve retention rates and mitigate turnover.
 
 ## Key Deliverables
 
@@ -16,7 +16,7 @@ The HR department of a consulting firm has collected extensive data on employee 
 - `notebooks/`: Contains Jupyter Notebooks for data analysis and modeling.
 - `data/`: Directory for storing the dataset used in the project.
 - `docs/`: Documentation files, including the project summary.
-- `README.md`: Overview of the project, including instructions for running the code and interpreting the results.
+- `README.md`: Project overview, including instructions for running the code and interpreting the results.
 
 ## Getting Started
 
