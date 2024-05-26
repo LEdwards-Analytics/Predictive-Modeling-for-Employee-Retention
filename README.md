@@ -21,7 +21,7 @@ The HR department of a consulting firm has collected extensive data on employee 
 ## Getting Started
 
 1. Clone the repository to your local machine.
-2. Navigate to the `Employee Retention.ipynb` and open.
+2. Navigate to the `notebooks/` directory and open the Jupyter Notebook.
 3. Follow the instructions in the notebook to execute the code and analyze the data.
 4. Refer to the project summary for key insights.
 
